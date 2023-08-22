@@ -1,4 +1,9 @@
-# Hi there, I'm Gokula krishnan Venkatesan ! 👋
+<img width='100%' height='250px' src="https://github.com/Techkrish1/Techkrish1/assets/111285228/276cc677-f400-4d5a-8503-5484bd9a78cf" />
+
+<h3 align="center">Hey there, I'm <a href="https://github.com/Techkrish1">Gokula krishnan</a></h3>
+<h5 align="center">Below are a few links you can connect with me there too</h5>
+
+## What I'm Doing
 
 - 🔭 I’m currently working on ShortUrl
 
