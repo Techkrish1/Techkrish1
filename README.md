@@ -1,5 +1,11 @@
 # Hi there, I'm Gokula krishnan Venkatesan ! 👋
 
+- 🔭 I’m currently working on ShortUrl
+
+- 🌱 I’m currently learning **Django**
+
+- 📫 How to reach me : [Linkedin] (https://www.linkedin.com/in/gokula-krishnan-venkatesan-93a3a8227/)
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Techkrish1&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techkrish1&layout=compact" />
