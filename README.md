@@ -24,7 +24,7 @@ I am passionate about computer science. I am a web developer and open-source ent
 
 ## Technologies and Tools I have used to work
 
-<p align="left"> <a href="https://github.com/Techkrish1"><img src="https://skillicons.dev/icons?i=vscode,github,python,django,flask,git,html,css,bootstrap,js"> </a> </p>
+<p align="left"> <a href="https://github.com/Techkrish1"><img src="https://skillicons.dev/icons?i=vscode,github,python,django,flask,git,html,css,bootstrap,js,mysql"> </a> </p>
 
 ## A little more about me...
 
