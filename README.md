@@ -11,8 +11,8 @@
 
 ## About me
 
-<p> I am a third-year student at Government College of Engineering, Tirunelveli. 
-I am passionate about computer science. I am a web developer and open-source enthusiast and aspire to be a software engineer in the future. I am curious to learn new technologies and do some innovative projects on them. Focusing on improving my concepts of Data Structures and Algorithms, and General Problem-Solving.</p>
+<p> I am a final-year student at Government College of Engineering, Tirunelveli. 
+I am passionate about computer science and aspire to be a software engineer in the future. I am curious to learn new technologies and do some innovative projects on them, focusing on improving my concepts of Data Structures and Algorithms, and General Problem-Solving. I gained real-life experience with Python, HTML, and Django, Bootstrap, MySQL, and Git.</p>
 
 ## What I'm Doing
 
