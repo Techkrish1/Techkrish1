@@ -12,13 +12,13 @@
 ## About me
 
 <p> I am a final-year student at Government College of Engineering, Tirunelveli. 
-I am passionate about computer science and aspire to be a software engineer in the future. I am curious to learn new technologies and do some innovative projects on them, focusing on improving my concepts of Data Structures and Algorithms, and General Problem-Solving. I gained real-life experience with Python, HTML, and Django, Bootstrap, MySQL, and Git.</p>
+I am passionate about computer science and aspire to be a software engineer in the future. I am curious to learn new technologies and do some innovative projects on them, focusing on improving my concepts of Data Structures and Algorithms, and General Problem-Solving. I gained real-life experience with Python, Java, HTML, and Django, Bootstrap, MySQL, and Git.</p>
 
 ## What I'm Doing
 
-- 🔭 I’m currently working on ShortUrl
+- 🔭 I’m currently working on Diettrack
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **OOP**
 
 - 📫 How to reach me: **krishgokul4002@gmail.com**
 
