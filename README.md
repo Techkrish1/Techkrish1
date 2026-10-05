@@ -83,34 +83,6 @@ Data Engineer with **1.5+ years** of production experience at **Informatica** an
 
 ---
 
-## 🏗️ Data Architecture
-
-```mermaid
-flowchart LR
-    subgraph Sources["📥 Source Systems"]
-        A["OLTP / APIs\nSalesforce / REST"]
-        B["Files\nADLS Gen2 / S3"]
-    end
-    subgraph Ingestion["⚡ Ingestion"]
-        C["Informatica IDMC\nCDI-Elastic"]
-        D["Incremental Load\nDelta / Parquet"]
-    end
-    subgraph Processing["🔄 Processing"]
-        E["Apache Spark\nPySpark Batch & Stream"]
-        F["Databricks\nDelta Lake SQL"]
-    end
-    subgraph Warehouse["❄️ Warehouse"]
-        G["Snowflake\nMicrosoft Fabric"]
-    end
-    subgraph Consumption["📊 Consumption"]
-        H["Power BI\nAnalytics Teams"]
-    end
-    A --> C --> E --> G --> H
-    B --> D --> F --> G
-```
-
----
-
 ## 📌 Featured Projects
 
 | Project | What It Solves | Tech |
