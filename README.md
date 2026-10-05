@@ -1,18 +1,20 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Gokulakrishnan+%F0%9F%91%8B;Data+Engineer+%7C+Spark+%C2%B7+Snowflake+%C2%B7+Databricks;Turning+Raw+Data+into+Business+Value" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Gokulakrishnan%20Venkatesan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20Spark%20%C2%B7%20Snowflake%20%C2%B7%20Databricks%20%C2%B7%20Delta%20Lake&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
-  <br/><br/>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+ETL+pipelines+at+production+scale+%F0%9F%9A%80;Spark+%7C+Snowflake+%7C+Databricks+%7C+Delta+Lake+%7C+Informatica;Turning+terabytes+of+raw+data+into+business+decisions" alt="Typing SVG" />
+
+  <br/>
 
   <a href="https://www.linkedin.com/in/gokulakrishnan-venkatesan-93a3a8227/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:krishgokul4002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://github.com/Techkrish1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Techkrish1&style=flat-square&color=0e75b6" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Bengaluru,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Techkrish1&style=for-the-badge&color=0e75b6" alt="profile views"/>
+
 </div>
 
 ---
