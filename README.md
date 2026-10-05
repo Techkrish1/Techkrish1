@@ -12,8 +12,7 @@
   <a href="mailto:krishgokul4002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/Bengaluru,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white"/>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Techkrish1&style=for-the-badge&color=0e75b6" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Bengaluru,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
